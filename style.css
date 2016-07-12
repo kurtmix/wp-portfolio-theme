@@ -21,3 +21,13 @@ a {
     color: teal;
     text-decoration: none;
 }
+
+header{
+	color: black;
+}
+h1.entry-title {
+	color: grey;
+}
+h1.page-title {
+	color: grey;
+}
