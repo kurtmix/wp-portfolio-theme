@@ -11,12 +11,6 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twenty-fifteen-child
 */
-.row{
-
-	background-color: aquamarine;  
-}
-
-
 a {
     color: teal;
     text-decoration: none;
@@ -26,8 +20,29 @@ header{
 	color: black;
 }
 h1.entry-title {
-	color: grey;
+	color: black;
 }
 h1.page-title {
-	color: grey;
+	color: teal;
+}
+html{
+	background-color: maroon;
+}
+.simple-social-icons{
+	color: beige;
+}
+.container{
+	background-color: beige;
+}
+body{
+	padding-top: 25px;
+	background-color: maroon;
+}
+blockquote{
+	background-color: beige;
+	border-left: beige;
+}
+
+a:hover{
+	color: teal;
 }
